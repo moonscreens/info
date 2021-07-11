@@ -42,6 +42,7 @@ The most accurate way for you to test if your intro screen performs well is to l
 - Bitrate: 8000kbps
 - Encoder: Software (x264)
 - Encoder Preset: Slow
+
 *These are the settings [moonmoon](https://twitch.tv/moonmoon) uses as of July 2021.*
 
 After your settings are dialed in, switch to the scene with your intro screen as a browser source, hit "Start Recording", and see if OBS drops any frames.
