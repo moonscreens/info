@@ -45,4 +45,4 @@ The most accurate way for you to test if your intro screen performs well is to l
 
 *These are the settings [moonmoon](https://twitch.tv/moonmoon) uses as of July 2021.*
 
-After your settings are dialed in, switch to the scene with your intro screen as a browser source, hit "Start Recording", and see if OBS drops any frames.
+After your settings are dialed in, switch to the scene with your intro screen as a browser source, hit "Start Recording", and see if OBS drops any frames. Moonmoon also has a Ryzen 5950x and a 3090, so if you get a framerate of around 50FPS on a non god-tier CPU like that, you're probably good to go.
