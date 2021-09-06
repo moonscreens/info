@@ -1,5 +1,5 @@
 # Intro Screen Guidelines
-Some things to keep in mind when creating an intro screen
+Some things to keep in mind when creating an [intro screen](README.md)
 
 # Visual Suggestions
 
