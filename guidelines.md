@@ -32,3 +32,6 @@ function draw() { // Called once per frame
     lastFrame = Date.now();
 }
 ```
+
+## Performance
+The expected use for most of these intro screens is that they will be ran inside of an OBS browser source, while OBS is encoding at up to 8000kbps, and you don't want to step on OBS's toes while it's encoding or else it will cause OBS to drop frames.
