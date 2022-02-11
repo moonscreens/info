@@ -9,6 +9,4 @@ Some helpful tips on the visual and technical composition of intro screens.
 ## Who is [moonmoon](https://www.twitch.tv/moonmoon)?
 Moonmoon is [a large streamer on twitch](https://www.twitch.tv/moonmoon) which this entire project was created for. However you can feel free to use the source code here for other streamers and applications.
 
-Moon appreciates cool things, and will usually pay out groups that make intro screens for him.
-
 [Submitting an intro screen to moon.](submitting.md)
