@@ -2,6 +2,8 @@
 
 (It doesn't have to be twitch, they just have a lot of fun emotes) This is a project for creating fun animations that live streamers can use to make their streams a touch more visually appealing and interactive. The concept is simple, use JavaScript to create an animation that connects to Twitch Chat and displays emotes in real time using fun animations. The end result is a browser source streamers can easilly plug into OBS!
 
+![Easy setup, just plug your URL into a browser source](assets/add-an-animation.png)
+
 
 https://user-images.githubusercontent.com/12778272/153722392-7afc99f2-be68-41c7-8489-49404ce4647e.mp4
 
