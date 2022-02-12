@@ -1,4 +1,4 @@
-# Twitch Chat Animations!
+# [Twitch Chat Animations!](https://github.com/moonscreens)
 
 (It doesn't have to be twitch, they just have a lot of fun emotes) This is a project for creating fun animations that live streamers can use to make their streams a touch more visually appealing and interactive. The concept is simple, use JavaScript to create an animation that connects to Twitch Chat and displays emotes in real time using fun animations. The end result is a browser source streamers can easilly plug into OBS!
 
