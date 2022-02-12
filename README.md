@@ -12,10 +12,7 @@ Check out the example code:
   - Uses the browsers built in [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   - Great if you're already familiar with Canvas
 
-
-## [Guidelines](guidelines.md)
-
-Some helpful tips on the technical and visual composition.
+[Guidelines](guidelines.md) - Some helpful tips on the technical and visual composition.
 
 ![Easy setup, just plug your URL into a browser source](assets/add-an-animation.png)
 
