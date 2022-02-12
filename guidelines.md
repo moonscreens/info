@@ -1,4 +1,4 @@
-[back-to-index](readme.md)
+[back-to-index](/README.md)
 
 # Technical Guidelines
 
