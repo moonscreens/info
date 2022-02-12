@@ -8,7 +8,7 @@ Check out the example code:
   - Uses the [Three.JS](https://threejs.org/) library
   - More performant
   - Capable of 2D + 3D scenes
-- [Canvas](https://github.com/moonscreens/intro-example]
+- [Canvas](https://github.com/moonscreens/intro-example)
   - Uses the browsers built in [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   - Great if you're already familiar with Canvas
 
