@@ -1,6 +1,16 @@
 # [Twitch Chat Animations!](https://github.com/moonscreens)
+This is a project for creating fun animations that live streamers can use to make their streams a touch more visually appealing and interactive. The concept is simple, use JavaScript to create an animation that connects to Twitch Chat and displays emotes in real time using fun animations.
 
-(It doesn't have to be twitch, they just have a lot of fun emotes) This is a project for creating fun animations that live streamers can use to make their streams a touch more visually appealing and interactive. The concept is simple, use JavaScript to create an animation that connects to Twitch Chat and displays emotes in real time using fun animations. The end result is a browser source streamers can easilly plug into OBS!
+The end result is a browser source streamers can easilly plug into OBS!
+
+Check out the example code:
+- [ThreeJS](https://github.com/moonscreens/intro-example-threejs)
+  - Uses the [Three.JS](https://threejs.org/) library
+  - More performant
+  - Capable of 2D + 3D scenes
+- [Canvas](https://github.com/moonscreens/intro-example]
+  - Uses the browsers built in [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  - Great if you're already familiar with Canvas
 
 ![Easy setup, just plug your URL into a browser source](assets/add-an-animation.png)
 
