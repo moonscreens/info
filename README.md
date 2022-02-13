@@ -4,11 +4,11 @@ This is a project for creating fun animations that live streamers can use to mak
 The end result is a browser source streamers can easilly plug into OBS!
 
 Check out the example code:
-- [ThreeJS](https://github.com/moonscreens/intro-example-threejs)
+- [ThreeJS starter template](https://github.com/moonscreens/intro-example-threejs)
   - Uses the [Three.JS](https://threejs.org/) library
   - More performant
   - Capable of 2D + 3D scenes
-- [Canvas](https://github.com/moonscreens/intro-example)
+- [Canvas starter template](https://github.com/moonscreens/intro-example)
   - Uses the browsers built in [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   - Great if you're already familiar with Canvas
 
