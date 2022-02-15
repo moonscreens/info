@@ -6,7 +6,7 @@ The end result is a browser source streamers can easilly plug into OBS!
 Check out the example code:
 - [ThreeJS starter template](https://github.com/moonscreens/intro-example-threejs)
   - Uses the [Three.JS](https://threejs.org/) library
-  - More performant
+  - More performant than the Canvas template
   - Capable of 2D + 3D scenes
 - [Canvas starter template](https://github.com/moonscreens/intro-example)
   - Uses the browsers built in [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
