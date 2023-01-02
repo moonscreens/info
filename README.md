@@ -3,6 +3,8 @@ This is a project for creating fun animations that live streamers can use to mak
 
 The end result is a browser source streamers can easilly plug into OBS!
 
+[View some example animations](https://intros.opl.io/) made for [MOONMOON](https://www.twitch.tv/moonmoon).
+
 Check out the example code:
 - [ThreeJS starter template](https://github.com/moonscreens/intro-example-threejs)
   - Uses the [Three.JS](https://threejs.org/) library
@@ -18,8 +20,3 @@ Check out the example code:
 
 https://user-images.githubusercontent.com/12778272/153722392-7afc99f2-be68-41c7-8489-49404ce4647e.mp4
 
-## Who is [moonmoon](https://www.twitch.tv/moonmoon)?
-
-Moonmoon is [a bald streamer on twitch](https://www.twitch.tv/moonmoon) which this entire project was created for. However you can feel free to use the source code here for other streamers and applications.
-
-[Submitting an intro screen to moon.](submitting.md)
